@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomConfigSample", "Custo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomConfigSampleTests", "CustomConfigSampleTests\CustomConfigSampleTests.csproj", "{C62D4F5A-7671-4BAE-8A18-3635F760BC21}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GracefulShutdownSample", "GracefulShutdownSample\GracefulShutdownSample.csproj", "{974899E3-FF4D-41CF-8A0C-E1837E039FEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{C62D4F5A-7671-4BAE-8A18-3635F760BC21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C62D4F5A-7671-4BAE-8A18-3635F760BC21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C62D4F5A-7671-4BAE-8A18-3635F760BC21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{974899E3-FF4D-41CF-8A0C-E1837E039FEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{974899E3-FF4D-41CF-8A0C-E1837E039FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{974899E3-FF4D-41CF-8A0C-E1837E039FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{974899E3-FF4D-41CF-8A0C-E1837E039FEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
